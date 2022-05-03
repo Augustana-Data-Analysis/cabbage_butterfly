@@ -26,3 +26,4 @@ Dataset is ongoing collection of insects around the world
 
       C. Anterior spot area?
 
+5. Complete a average for each wing compare male vs female, and by decade. 
